@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.nav_activity_main);
         Friend f0 = new Friend(1,"Laibs", 1980, "Giglgit",R.drawable.ic_launcher_background);
         Friend f1 = new Friend(2,"Mahnoor", 1981, "Lahore",R.drawable.ic_launcher_background);
         Friend f2 = new Friend(3,"libs", 1980, "Quetta",R.drawable.ic_launcher_background);

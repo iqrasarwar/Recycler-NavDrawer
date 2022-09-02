@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/content_navigation_drawer.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/nav_activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.14719202898550723" />
         <entry key="..\:/Users/BUTT SYSTEMS/AndroidStudioProjects/Recycler/app/src/main/res/layout/view_item.xml" value="0.1" />
       </map>
     </option>
