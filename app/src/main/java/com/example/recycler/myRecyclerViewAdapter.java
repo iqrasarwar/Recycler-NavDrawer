@@ -40,7 +40,6 @@ public class myRecyclerViewAdapter extends RecyclerView.Adapter<myRecyclerViewAd
             return friendsList.size();
         }
 
-
         public class myViewHolder extends RecyclerView.ViewHolder {
             ImageView imageViewFriend;
             TextView textViewFriendName;
